@@ -22,8 +22,32 @@ In this readme, i will create a presentation , to get to know a little better wh
         complete_name = (name + " "  + first_name)  
         print (complete_name)  
         for spell in complete_name:  
-         print(spell)
+            print(spell)
          
+         ```
+       - xML:
+         ```
+         <?xml version="1.0" encoding="UTF-8"?>
+         <films>
+          <film>
+           <title>bloodspt</title>
+           <directed>Newt Arnold</directed>
+           <year>1988</year>
+           <Starring>Jean-Claude Van Damme</Starring>
+          </film>
+          <film>
+           <title>Donnie Darko</title>
+           <directed>Richard Kelly</directed>
+           <year>1988</year>
+           <Starring>Jake Gyllenhaal</Starring>
+          </film>
+          <film>
+           <title>Donnie Darko</title>
+           <directed>Richard Kelly</directed>
+           <year>1988</year>
+           <Starring>Jake Gyllenhaal</Starring>
+          </film>
+          </films>
          ```
      
 - 👯 I’m looking to collaborate on ...
