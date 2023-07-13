@@ -15,13 +15,16 @@ In this readme, i will create a presentation , to get to know a little better wh
   
   - I have knowledge of several programming languages for example:
   
-     - Python:
-       `name =(" Jose")
+      - Python:
+         ```
+        name =("Jose")
         first_name = ("Serrano")  
         complete_name = (name + " "  + first_name)  
         print (complete_name)  
         for spell in complete_name:  
-         print(spell)`
+         print(spell)
+         
+         ```
      
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
