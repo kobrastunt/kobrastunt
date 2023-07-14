@@ -15,7 +15,7 @@ In this readme, i will create a presentation , to get to know a little better wh
   
   - I have knowledge of several programming languages for example:
   
-      - Python:
+      - PYTHON:
          ```
         name =("Jose")
         first_name = ("Serrano")  
@@ -49,6 +49,70 @@ In this readme, i will create a presentation , to get to know a little better wh
           </film>
           </films>
          ```
+       - HTML and CSS:
+         ```
+         <!DOCTYPE html
+         <html>
+         <head>
+         <meta charset="UTF-8">
+         <title>Films</title>
+         <style>
+         body {
+         font-family: Arial, sans-serif;
+         background-color: #f2f2f2;
+         color: #333;
+         padding: 20px;
+         }
+         h1 {
+         text-align: center;
+         }
+         ul {
+         list-style-type: none;
+         padding: 0;
+         }
+         li {
+         background-color: #fff;
+         border-radius: 5px;
+         padding: 10px;
+         margin-bottom: 10px;
+         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+         }
+         h2 {
+         color: #007bff;
+         margin-top: 0;
+         }
+         p {
+         margin: 5px 0;
+         }
+         </style>
+         </head>
+         <body>
+         <h1>Films</h1>
+         <ul>
+         <li>
+         <h2>Title: Bloodsport</h2>
+         <p>
+         Directed by: Newt Arnold</p>
+         <p>Year: 1988</p>
+         <p>Starring: Jean-Claude Van Damme</p>
+         </li>
+         <li>
+         <h2>Title: Donnie Darko</h2>
+         <p>Directed by: Richard Kelly</p>
+         <p>Year: 1988</p>
+         <p>Starring: Jake Gyllenhaal</p>
+         </li>
+         <li>
+         <h2>Title: Donnie Darko</h2>
+         <p>Directed by: Richard Kelly</p>
+         <p>Year: 1988</p>
+         <p>Starring: Jake Gyllenhaal</p>
+         </li>
+         </ul>
+         </body>
+         </html>
+```
+         
      
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
