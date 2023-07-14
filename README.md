@@ -113,7 +113,8 @@ In this readme, i will create a presentation , to get to know a little better wh
          </html>
          ```
        - sQL:
-          - table creation :  
+         
+          1. table creation :  
            
          ```
            CREATE TABLE identificacion (
@@ -121,11 +122,11 @@ In this readme, i will create a presentation , to get to know a little better wh
            apellidos VARCHAR(50)
  	       );
          ```
-          - information creation of the table: :
+          2. information creation of the table: :
             
          `INSERT INTO identificacion (nombre, apellidos) VALUES ('Jose', 'Serrano');`
          
-          - Consultation:  
+         3. Consultation:  
           
          `SELECT * FROM identificacion WHERE nombre = 'Jose' AND apellidos = 'Serrano';`
      
