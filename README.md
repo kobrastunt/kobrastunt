@@ -111,8 +111,23 @@ In this readme, i will create a presentation , to get to know a little better wh
          </ul>
          </body>
          </html>
-```
+         ```
+       - sQL:
+          - table creation :  
+           
+         ```
+           CREATE TABLE identificacion (
+           nombre VARCHAR(50),
+           apellidos VARCHAR(50)
+ 	       );
+         ```
+          - information creation of the table: :
+            
+         `INSERT INTO identificacion (nombre, apellidos) VALUES ('Jose', 'Serrano');`
          
+          - Consultation:  
+          
+         `SELECT * FROM identificacion WHERE nombre = 'Jose' AND apellidos = 'Serrano';`
      
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
